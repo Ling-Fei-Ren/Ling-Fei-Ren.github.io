@@ -22,7 +22,7 @@ repository               : "Ling-Fei-Ren/Ling-Fei-Ren.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "lingfei.JPG"
+  avatar           : "lingfei.png"
   name             : "Lingfei Ren"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
