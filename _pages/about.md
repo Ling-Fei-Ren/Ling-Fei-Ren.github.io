@@ -9,58 +9,52 @@ redirect_from:
 
 
 
-I am currently an Assistant Professor at the [School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics](https://it.swufe.edu.cn/). I obtained my Ph.D. degree in 2023 from the [College of Computer Science and Technology](https://ccst.jlu.edu.cn/) at [Jilin University](https://www.jlu.edu.cn/) under the supervision of Prof. [Liang Hu](https://ccst.jlu.edu.cn/info/1367/19276.htm). Additionally, I was also guided by Prof. [Wanfu Gao](https://ccst.jlu.edu.cn/info/1028/19117.htm). I am also a member of [CCCI Group](https://ccci.swufe.edu.cn/) ([认知计算与群智协同创新团队](https://ccci.swufe.edu.cn/)), which is led by Prof. [Xin Yang](https://it.swufe.edu.cn/info/1119/2300.htm) ([杨新](https://it.swufe.edu.cn/info/1119/2300.htm)).
+I am currently an Assistant Professor at the [School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics](https://it.swufe.edu.cn/). I obtained my Ph.D. degree in 2024 from the [School of Computer Science](https://cs.whu.edu.cn/) at [Wuhan University](https://www.whu.edu.cn/) under the supervision of Prof. [Ruimin Hu]. I am also a member of [CCCI Group](https://ccci.swufe.edu.cn/) ([认知计算与群智协同创新团队](https://ccci.swufe.edu.cn/)), which is led by Prof. [Xin Yang](https://it.swufe.edu.cn/info/1119/2300.htm) ([杨新](https://it.swufe.edu.cn/info/1119/2300.htm)).
 
 Research
 ======
-The long-term research goal of our team is to develop robust and trustworthy machine learning methods for complex, high-dimensional and distributed data environments. Most recently, our research focuses on **machine learning and its applications in data mining**, following are some related research problems:
+The long-term research goal of our team is to develop robust and trustworthy machine learning methods for complex, high-dimensional, and distributed data environments. Most recently, our research focuses on **machine learning and its applications in data mining**. The following are some related research problems:
 
-- **How to select informative and non-redundant features from high-dimensional data?**
-  - Related Topics: Feature Selection, (Partial) Multi-label Learning, etc.
-
-- **How to uncover and leverage causal relationships in observational data?**
-  - Related Topics: Causal Inference, Causal Discovery, Information-Theoretic Methods, etc.
+- **How to uncover and leverage graph data?**
+  - Related Topics: Graph machine learning, graph anomaly detection, graph fraud detection, etc.
 
 - **How to collaboratively train models across decentralized data sources while preserving data privacy?**
-  - Related Topics: Federated Learning, Privacy-Preserving Machine Learning, etc.
+  - Related Topics: Federated Learning, Federated Graph Learning, etc.
 
-- **How to enable models to continually learn from non-stationary data without catastrophic forgetting?**
+- **How to enable models to learn from non-stationary data without catastrophic forgetting continually?**
   - Related Topics: Continual Learning, Lifelong Learning, Incremental Learning, etc.
 
 Recruitment
 ======
-**招收对特征工程、因果推断、联邦学习、持续学习等人工智能和数据挖掘领域感兴趣，有较好编程基础的学生！**  
-请通过邮箱 [liyonghao@swufe.edu.cn](mailto:liyonghao@swufe.edu.cn) 联系我，附上**带普通生活照的个人简历、成绩单**。
+**招收对图机器学习、联邦大小模型、金融风控、持续学习等人工智能和数据挖掘领域感兴趣，有较好编程基础的学生！**  
+请通过邮箱 [renlf@swufe.edu.cn](mailto:renlf@swufe.edu.cn) 联系我，附上**带普通生活照的个人简历、成绩单**。
 
 
 News
 ======
-- **2025.06: "Exploring multi-label feature selection via feature and label information supplementation" is accepted by EAAI.**
-- **2025.04: "Multi-granularity Knowledge Transfer for Continual Reinforcement Learning" is accepted by IJCAI.**
-- **2025.04: "MI-MCF: A Mutual Information Based Multi-Label Causal Feature Selection" is accepted by IEEE TNNLS.**
-- **2024.11: "Fusion-enhanced multi-label feature selection with sparse supplementation" is accepted by Information Fusion.**
+- **[Publications]: July. 6, 2025, One paper was accepted by ACM MM 2025! Congrats to Wending Xiong, Ruimin Hu, and coauthors! 🎉.**
+- **[Publications]: April. 29, 2025, One paper was accepted by IJCAI 2025! Congrats to Chaofan Pan, Yihui Feng, and coauthors! 🎉.**
+- **[Publications]: December. 21, 2024, One paper was accepted by AAAI 2025! Congrats to Yilong Zang, Zheng Wang, and coauthors! 🎉.**
 
 Publications (Selected)
 ======
-[1] Yonghao Li, Liang Hu, Wanfu Gao. Multi-label feature selection via robust flexible sparse regularization [J]. *Pattern Recognition*, 2023, 134: 109074. (中科院1区TOP期刊, 财大A类)
+[1] Lingfei Ren, Ruimin Hu, Zheng Wang, et al. Heterophilic Graph Invariant Learning for Out-of-Distribution of Fraud Detection. *ACM MM 2024*. (CCF A会议、财大A类)
 
-[2] Yonghao Li, Liang Hu, Wanfu Gao. Robust sparse and low-redundant multi-label feature selection with dynamic local and global structure preservation [J]. *Pattern Recognition*, 2023, 134: 109120. (中科院1区TOP期刊, 财大A类)
+[2] Lingfei Ren, Ruimin Hu, Dengshi Li, et al. Dynamic graph neural network-based fraud detectors against collaborative fraudsters. *Knowledge-Based Systems 2023*. (SCI-1期刊、财大A类)
 
-[3] Yonghao Li, Liang Hu, Wanfu Gao. Label correlations variation for robust multi-label feature selection [J]. *Information Sciences*, 2022, 609: 1075-1097. (中科院1区TOP期刊, 财大A类)
+[3] Lingfei Ren, Yilong Zang, Ruimin Hu, et al. Do not ignore heterogeneity and heterophily: Multi-network collaborative telecom fraud detection. *Expert Systems with Applications 2024*. (SCI-1期刊、财大B类)
 
-[4] Yonghao Li, Liang Hu, Wanfu Gao. Multi-label feature selection with high-sparse personalized and low-redundancy shared common features [J]. *Information Processing & Management*, 2024, 61(3): 103633. (中科院1区TOP期刊, 财大B类)
+[4] Lingfei Ren, Ruimin Hu, Yang Liu, et al. Improving fraud detection via imbalanced graph structure learning. *Machine Learning 2024*.(CCF B期刊、财大B类)
 
-[5] Liang Hu, Yonghao Li, Wanfu Gao, Ping Zhang, Juncheng Hu. Multi-label feature selection with shared common mode [J]. *Pattern Recognition*, 2020, 104: 107344. (中科院1区TOP期刊, 财大A类)
+[5] Chaofan Pan, Lingfei Ren, Yihui Feng, et al. Multi-granularity Knowledge Transfer for Continual Reinforcement Learning. *IJCAI 2025*.(CCF A会议、财大A类)
 
-[6] Yonghao Li, Juncheng Hu, Wanfu Gao. Robust multi-label feature selection with shared label enhancement [J]. *Knowledge and Information Systems*, 2022, 64(12): 3343-3372. (CCF-B类期刊)
+[6] Wending Xiong, Ruimin Hu, Lingfei Ren, et al. SE2E: Recognizing Emotion Behind Societal Behavior. *ACM MM 2025*.(CCF A会议、财大A类)
 
-[7] Wanfu Gao, Yonghao Li, Liang Hu. Multilabel Feature Selection with Constrained Latent Structure Shared Term [J]. *IEEE Transactions on Neural Networks and Learning Systems*, 2023, 34(3): 1253-1262. (中科院1区TOP期刊, 财大A类)
+[7] Junhang Wu, Ruimin Hu, Dengshi Li, Lingfei Ren, et al. Robust heterophilic graph learning against label noise for anomaly detection. *IJCAI 2024*. (CCF A会议、财大A类)
 
-[8] Liang Hu, Lingbo Gao, Yonghao Li, Ping Zhang, Wanfu Gao. Feature-specific mutual information variation for multi-label feature selection [J]. *Information Sciences*, 2022, 593: 449-471. (中科院1区TOP期刊, 财大A类)
+[8] Jingzhan Hu, Ruimin Hu, Zheng Wang, Lingfei Ren, et al. Collaborative Fraud Detection: How Collaboration Impacts Fraud Detection. *ACM MM 2023*. (CCF A会议、财大A类)
 
-[9] 李永豪, 胡亮, 高万夫. 基于稀疏系数矩阵重构的多标记特征选择 [J]. *计算机学报*, 2022, 45(09): 1827-1841. (CCF-A类中文期刊，财大A类)
-
-[10] 李永豪, 胡亮, 高万夫. 基于动态图拉普拉斯的多标记特征选择方法 [J]. *通信学报*, 2020, 41(12): 47-59. (CCF-B类中文期刊)
+[9] Yilong Zang, Ruimin Hu, Zheng Wang, Lingfei Ren, et al. Don't Ignore Alienation and Marginalization: Correlating Fraud Detection. *IJCAI 2023*. (CCF A会议、财大A类)
 
 更多文章见[Google Scholar](https://scholar.google.com/citations?user=6vb2aWkAAAAJ&hl=en).
 
