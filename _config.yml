@@ -11,26 +11,26 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Yonghao Li"
+name                     : &name "Lingfei Ren"
 description              : &description "Assistant Professor at School of Computing and AI of SWUFE"
-url                      : https://li-yonghao.github.io
+url                      : https://Ling-Fei-Ren.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "li-yonghao/li-yonghao.github.io"
+repository               : "Ling-Fei-Ren/Ling-Fei-Ren.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "liyonghao.png"
-  name             : "Yonghao Li"
+  avatar           : "lingfei.JPG"
+  name             : "Lingfei Ren"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
   location         : "Chengdu"
   employer         : "SWUFE"
   employer_url     : "https://www.swufe.edu.cn/"
-  uri              : "https://it.swufe.edu.cn/info/1122/17058.htm"
-  email            : "liyonghao@swufe.edu.cn"
+  uri              : "https://it.swufe.edu.cn/info/1122/18628.htm"
+  email            : "Renlf@swufe.edu.cn"
 
   # Academic websites
   academia         : # URL
