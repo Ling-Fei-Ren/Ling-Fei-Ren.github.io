@@ -68,7 +68,7 @@ Publications (Selected)
 
 [13] Yilong Zang, Ruimin Hu, Zheng Wang, Lingfei Ren, et al. Don't Ignore Alienation and Marginalization: Correlating Fraud Detection. *IJCAI 2023*. (CCF A会议、财大A类)
 
-更多文章见[Google Scholar]([https://scholar.google.com/citations?user=6vb2aWkAAAAJ&hl=en](https://sc.panda985.com)).
+更多文章见[Google Scholar](https://sc.panda985.com)).
 
 Academic Service
 ======
