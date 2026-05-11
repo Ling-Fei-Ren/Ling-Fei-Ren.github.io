@@ -32,6 +32,8 @@ Recruitment
 
 News
 ======
+- **[Publications]: May. 5, 2026, One paper was accepted by ICML 2026! Congrats to Wending Xiong, Ruimin Hu, and coauthors! 🎉.**
+- **[Publications]: May. 5, 2026, One paper was accepted by IJCAI 2026! Congrats to Tingting Li, Yonghao Li, and coauthors! 🎉.**
 - **[Publications]: April. 6, 2026, One paper was accepted by ACL 2026! Congrats to Yilin Xiao, Jin Chen, and coauthors! 🎉.**
 - **[Publications]: July. 6, 2025, One paper was accepted by ACM MM 2025! Congrats to Wending Xiong, Ruimin Hu, and coauthors! 🎉.**
 - **[Publications]: April. 29, 2025, One paper was accepted by IJCAI 2025! Congrats to Chaofan Pan, Yihui Feng, and coauthors! 🎉.**
@@ -39,28 +41,32 @@ News
 
 Publications (Selected)
 ======
-[1] Yilin Xiao, Jin Chen, Qinggang Zhang, Lingfei Ren, et al. LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation. *ACL 2026*. (CCF A会议、财大A类、Corresponding author)
+[1] Wending Xiong, Ruimin Hu, Lingfei Ren, et al. Enhancing Cross-subject Emotion Recognition via Heterogeneous Distribution Augmentation and Collaborative Learning. *ICML 2026*. (CCF A会议、财大A类、Corresponding author)
 
-[2] Yilong Zang, Lingfei Ren, Yue Li, et al. Rethinking Cancer Gene Identification Through Graph Anomaly Analysis. *AAAI 2025*. 
+[2] Tingting Li, Yonghao Li, Xiangkun Wang, Lingfei Ren, et al. Beyond Homophily: Spectrum-Based Graph Pre-Training and Cluster-Augmented Prompt Tuning. *IJCAI 2026*. (CCF B会议、财大B类、Corresponding author)
+
+[3] Yilin Xiao, Jin Chen, Qinggang Zhang, Lingfei Ren, et al. LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation. *ACL 2026*. (CCF A会议、财大A类、Corresponding author)
+
+[4] Yilong Zang, Lingfei Ren, Yue Li, et al. Rethinking Cancer Gene Identification Through Graph Anomaly Analysis. *AAAI 2025*. 
 (CCF A会议、财大A类、Corresponding author)
 
-[3] Lingfei Ren, Ruimin Hu, Zheng Wang, et al. Heterophilic Graph Invariant Learning for Out-of-Distribution of Fraud Detection. *ACM MM 2024*. (CCF A会议、财大A类)
+[5] Lingfei Ren, Ruimin Hu, Zheng Wang, et al. Heterophilic Graph Invariant Learning for Out-of-Distribution of Fraud Detection. *ACM MM 2024*. (CCF A会议、财大A类、First author)
 
-[4] Lingfei Ren, Ruimin Hu, Dengshi Li, et al. Dynamic graph neural network-based fraud detectors against collaborative fraudsters. *Knowledge-Based Systems 2023*. (SCI-1期刊、财大A类)
+[6] Lingfei Ren, Ruimin Hu, Dengshi Li, et al. Dynamic graph neural network-based fraud detectors against collaborative fraudsters. *Knowledge-Based Systems 2023*. (SCI-1期刊、财大A类、First author)
 
-[5] Lingfei Ren, Yilong Zang, Ruimin Hu, et al. Do not ignore heterogeneity and heterophily: Multi-network collaborative telecom fraud detection. *Expert Systems with Applications 2024*. (SCI-1期刊、财大B类)
+[7] Lingfei Ren, Yilong Zang, Ruimin Hu, et al. Do not ignore heterogeneity and heterophily: Multi-network collaborative telecom fraud detection. *Expert Systems with Applications 2024*. (SCI-1期刊、财大B类、First author)
 
-[6] Lingfei Ren, Ruimin Hu, Yang Liu, et al. Improving fraud detection via imbalanced graph structure learning. *Machine Learning 2024*.(CCF B期刊、财大B类)
+[8] Lingfei Ren, Ruimin Hu, Yang Liu, et al. Improving fraud detection via imbalanced graph structure learning. *Machine Learning 2024*.(CCF B期刊、财大B类、First author)
 
-[7] Chaofan Pan, Lingfei Ren, Yihui Feng, et al. Multi-granularity Knowledge Transfer for Continual Reinforcement Learning. *IJCAI 2025*.(CCF A会议、财大A类)
+[9] Chaofan Pan, Lingfei Ren, Yihui Feng, et al. Multi-granularity Knowledge Transfer for Continual Reinforcement Learning. *IJCAI 2025*.(CCF A会议、财大A类)
 
-[8] Wending Xiong, Ruimin Hu, Lingfei Ren, et al. SE2E: Recognizing Emotion Behind Societal Behavior. *ACM MM 2025*.(CCF A会议、财大A类)
+[10] Wending Xiong, Ruimin Hu, Lingfei Ren, et al. SE2E: Recognizing Emotion Behind Societal Behavior. *ACM MM 2025*.(CCF A会议、财大A类)
 
-[9] Junhang Wu, Ruimin Hu, Dengshi Li, Lingfei Ren, et al. Robust heterophilic graph learning against label noise for anomaly detection. *IJCAI 2024*. (CCF A会议、财大A类)
+[11] Junhang Wu, Ruimin Hu, Dengshi Li, Lingfei Ren, et al. Robust heterophilic graph learning against label noise for anomaly detection. *IJCAI 2024*. (CCF A会议、财大A类)
 
-[10] Jingzhan Hu, Ruimin Hu, Zheng Wang, Lingfei Ren, et al. Collaborative Fraud Detection: How Collaboration Impacts Fraud Detection. *ACM MM 2023*. (CCF A会议、财大A类)
+[12] Jingzhan Hu, Ruimin Hu, Zheng Wang, Lingfei Ren, et al. Collaborative Fraud Detection: How Collaboration Impacts Fraud Detection. *ACM MM 2023*. (CCF A会议、财大A类)
 
-[11] Yilong Zang, Ruimin Hu, Zheng Wang, Lingfei Ren, et al. Don't Ignore Alienation and Marginalization: Correlating Fraud Detection. *IJCAI 2023*. (CCF A会议、财大A类)
+[13] Yilong Zang, Ruimin Hu, Zheng Wang, Lingfei Ren, et al. Don't Ignore Alienation and Marginalization: Correlating Fraud Detection. *IJCAI 2023*. (CCF A会议、财大A类)
 
 更多文章见[Google Scholar]([https://scholar.google.com/citations?user=6vb2aWkAAAAJ&hl=en](https://sc.panda985.com)).
 
