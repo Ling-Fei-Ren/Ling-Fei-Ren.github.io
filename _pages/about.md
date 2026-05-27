@@ -21,6 +21,7 @@ Recruitment
 
 News
 ======
+- **[Publications]: May. 25, 2026, One paper was accepted by KDD 2026! Congrats to Chaofan Pan, Linbo Xiong, and coauthors! 🎉.**
 - **[Publications]: May. 5, 2026, One paper was accepted by ICML 2026! Congrats to Wending Xiong, Ruimin Hu, and coauthors! 🎉.**
 - **[Publications]: May. 5, 2026, One paper was accepted by IJCAI 2026! Congrats to Tingting Li, Yonghao Li, and coauthors! 🎉.**
 - **[Publications]: April. 6, 2026, One paper was accepted by ACL 2026! Congrats to Yilin Xiao, Jin Chen, and coauthors! 🎉.**
@@ -30,6 +31,8 @@ News
 
 Publications (Selected)
 ======
+[1] Chaofan Pan, Lingfei Ren, Linbo Xiong, et al. ERegime-Adaptive Continual Learning for Portfolio Management. *KDD 2026*. (CCF A会议、财大A类、学生一作老师二作)
+
 [1] Wending Xiong, Ruimin Hu, Lingfei Ren, et al. Enhancing Cross-subject Emotion Recognition via Heterogeneous Distribution Augmentation and Collaborative Learning. *ICML 2026*. (CCF A会议、财大A类、Corresponding author)
 
 [2] Tingting Li, Yonghao Li, Xiangkun Wang, Lingfei Ren, et al. Beyond Homophily: Spectrum-Based Graph Pre-Training and Cluster-Augmented Prompt Tuning. *IJCAI 2026*. (CCF B会议、财大B类、Corresponding author)
