@@ -1,3 +1,14 @@
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
+
 I am currently an Assistant Professor at the [School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics](https://it.swufe.edu.cn/). I obtained my Ph.D. degree in 2024 from the [School of Computer Science](https://cs.whu.edu.cn/) at [Wuhan University](https://www.whu.edu.cn/) under the supervision of Prof. [Ruimin Hu]. I am also a member of [CCCI Group](https://ccci.swufe.edu.cn/) ([认知计算与群智协同创新团队](https://ccci.swufe.edu.cn/)), which is led by Prof. [Xin Yang](https://it.swufe.edu.cn/info/1119/2300.htm) ([杨新](https://it.swufe.edu.cn/info/1119/2300.htm)).
 
 Research
