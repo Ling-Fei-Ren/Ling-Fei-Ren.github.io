@@ -45,6 +45,7 @@ News
 - **[05/2026]:  One paper was accepted by ICML 2026! Congrats to Wending Xiong, Ruimin Hu, and coauthors! 🎉.**
 - **[05/2026]:  One paper was accepted by IJCAI 2026! Congrats to Tingting Li, Yonghao Li, and coauthors! 🎉.**
 - **[05/2026]:  One paper was accepted by NN 2026! Congrats to Yanhua Li, Xiaocao Ouyang, and coauthors! 🎉.**
+- **[05/2026]:  我获得了2025年度吴文俊科技进步二等奖（7/12） 🎉.**
 - **[7/2025]:   One paper was accepted by ACM MM 2025! Congrats to Wending Xiong, Ruimin Hu, and coauthors! 🎉.**
 - **[4/2026]:   One paper was accepted by ACL 2026! Congrats to Yilin Xiao, Jin Chen, and coauthors! 🎉.**
 - **[4/2025]:   One paper was accepted by IJCAI 2025! Congrats to Tingting Li, Yonghao Li, and coauthors! 🎉.**
