@@ -40,6 +40,7 @@ News
 - **[09/2026]:  I have been invited to be a PC member for the Forty-First AAAI Conference on Artificial Intelligence (AAAI’27) 🎉.**
 - **[09/2026]:  One paper was accepted by NN 2026! Congrats to Yanhua Li, Xiaocao Ouyang, and coauthors! 🎉.**
 - **[08/2026]:  One paper was accepted by PR 2026! Congrats to Yilong Zang, Guanlan Liu, and coauthors! 🎉.**
+- **[06/2026]:  Congrats to Jin Chen on an excellent undergraduate thesis (优秀本科毕业论文)! 🎉.**
 - **[05/2026]:  Two papers were accepted by KDD 2026! Congrats to Chaofan Pan, Linbo Xiong, and coauthors! 🎉.**
 - **[05/2026]:  One paper was accepted by ICML 2026! Congrats to Wending Xiong, Ruimin Hu, and coauthors! 🎉.**
 - **[05/2026]:  One paper was accepted by IJCAI 2026! Congrats to Tingting Li, Yonghao Li, and coauthors! 🎉.**
