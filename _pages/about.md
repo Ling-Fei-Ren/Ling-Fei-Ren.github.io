@@ -46,7 +46,7 @@ News
 - **[05/2026]:  One paper was accepted by NN 2026! Congrats to Yanhua Li, Xiaocao Ouyang, and coauthors! 🎉.**
 - **[7/2025]:   One paper was accepted by ACM MM 2025! Congrats to Wending Xiong, Ruimin Hu, and coauthors! 🎉.**
 - **[4/2026]:   One paper was accepted by ACL 2026! Congrats to Yilin Xiao, Jin Chen, and coauthors! 🎉.**
-- **[4/2025]:   One paper was accepted by IJCAI 2025! Congrats to Chaofan Pan, Yihui Feng, and coauthors! 🎉.**
+- **[4/2025]:   One paper was accepted by IJCAI 2025! Congrats to Tingting Li, Yonghao Li, and coauthors! 🎉.**
 - **[1/2025]:   One paper was accepted by AAAI 2025! Congrats to Yilong Zang, Zheng Wang, and coauthors! 🎉.**
 
 Publications (Selected)
